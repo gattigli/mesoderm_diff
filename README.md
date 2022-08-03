@@ -7,5 +7,7 @@ IF pipeline follows the order:
 - _IF3_GMM.py_
 - _IF4_threshold_loop.py_
 
-For the scRNAseq analysis, I performed quality control, merged and normalized the datasets in _scRNAseq_QC_merg_norm.ipynb_. Analysis was conducted in _scRNAseq_leidenclustering.ipynb_. 
-Integration with fully annotated embryo datasets was conducted in _scRNAseq_integration_pijuan_sala.ipynb_ (Pijuan-Sala et al. 2019) and _scRNAseq_integration_grosswendt.ipynb_ (Grosswendt et al. 2020).
+scRNAseq analysis:
+ - _scRNAseq_QC_merg_norm.ipynb_: here I performed quality control, merged and normalized the datasets 
+ - _scRNAseq_leidenclustering.ipynb_: analysis of the obtained dataset
+ - Integration with fully annotated embryo datasets was conducted in _scRNAseq_integration_pijuan_sala.ipynb_ (Pijuan-Sala et al. 2019) and _scRNAseq_integration_grosswendt.ipynb_ (Grosswendt et al. 2020).
