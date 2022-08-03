@@ -1,2 +1,2 @@
-# mesoderm_diff
-This folder contains the codes behind the IF image analysis and the single cell RNA sequencing
+# Mesoderm differentiation project
+This folder contains the codes used for the quantification and analysis of immunofluorescence images and the single cell RNA sequencing
