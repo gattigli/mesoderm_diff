@@ -8,6 +8,6 @@ The pipeline for the analysis of the immunofluorescence images follows the order
 - _IF4_threshold_loop.py_
 
 The pipeline for the analysis of the scRNAseq analysis follows the order:
- - _scRNAseq_QC_merg_norm.ipynb_: here I performed quality control, then I merged and normalized the datasets 
- - _scRNAseq_leidenclustering.ipynb_: here I analysed the dataset, clustering the dataset, and checking the expression levels of differentiation markers and signaling proteins/receptors
+ - _scRNAseq_QC_merg_norm.ipynb_: here I performed quality control of the single datasets, which were then merged and normalized 
+ - _scRNAseq_leidenclustering.ipynb_: here I analysed the merged dataset. I then clustered the dataset and analysed the expression levels of differentiation markers and signaling proteins/receptors
  - The integration of my dataset with fully annotated embryo datasets was conducted in _scRNAseq_integration_pijuan_sala.ipynb_ (using the dataset in Pijuan-Sala et al. 2019) and _scRNAseq_integration_grosswendt.ipynb_ (using the dataset in Grosswendt et al. 2020).
